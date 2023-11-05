@@ -178,7 +178,7 @@ img {
   border-style: none; }
 
 svg:not(:root) {
-  overflow: auto; }
+  overflow: hidden; }
 
 table {
   border-collapse: collapse; }
